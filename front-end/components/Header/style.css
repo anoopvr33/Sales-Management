@@ -1,0 +1,30 @@
+.header-1 {
+  padding: 30px;
+  background-color: rgb(26, 25, 25);
+  width: 42%;
+  height: 60vh;
+  text-align: center;
+  border-radius: 10px;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 25, 25);
+}
+
+.input-field-1 {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.input-field-1 input {
+  background-color: white;
+  width: 300px;
+  height: 30px;
+  padding-left: 16px;
+  border-radius: 5px;
+  border: none;
+}

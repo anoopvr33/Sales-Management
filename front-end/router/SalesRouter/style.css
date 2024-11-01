@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 3%;
+  margin-top: 20px;
+}
+
+h3 {
+  color: aliceblue;
+  margin: auto;
+  /* margin-left: 30px; */
+  width: 80%;
+}
+
+.display-items-1 {
+  background-color: rgb(26, 25, 25);
+  width: 87%;
+  padding: 20px 0px 20px 0px;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+}
+
+#sale-manage-btn {
+  background-color: aliceblue;
+  width: 100px;
+  padding: 7px;
+}
+
+.sale-manage-h1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 40px;
+  height: 60px;
+}
+.activities {
+  width: fit-content;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
