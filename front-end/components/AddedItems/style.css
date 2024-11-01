@@ -1,0 +1,52 @@
+.list {
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.added-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#total {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  position: sticky;
+  margin: auto;
+  margin-left: 785px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#total-input {
+  background-color: aliceblue;
+  border: none;
+  border-radius: 10px;
+  width: 189px;
+  padding: 5px 5px 5px 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+table {
+  border: 1px solid rgba(255, 255, 255, 0);
+  /* border-collapse: collapse; */
+  border-radius: 10px;
+  background-color: rgba(94, 92, 92, 0);
+  color: black;
+  text-align: center;
+  border-spacing: 10px;
+}
+
+th {
+  background-color: rgb(220, 220, 220);
+  border-radius: 5px;
+}
+td {
+  padding: 4px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+}

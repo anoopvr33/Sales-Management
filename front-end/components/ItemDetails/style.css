@@ -1,0 +1,35 @@
+.details-1 {
+  padding: 30px;
+  background-color: rgb(26, 25, 25);
+  width: 42%;
+  height: 60vh;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.input-field-2 {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.input-field-2 input {
+  background-color: white;
+  width: 300px;
+  height: 30px;
+  padding-left: 16px;
+  border-radius: 5px;
+  border: none;
+}
+
+.detail-button-1 {
+  background-color: rgb(233, 233, 233);
+  width: 100px;
+  padding: 7px;
+  margin-left: 70%;
+  margin-top: 8%;
+  font-weight: bold;
+  border-radius: 5px;
+}
